@@ -1,0 +1,129 @@
+--Seek1
+coroutine.wrap(function()
+while true do
+wait(0.1)
+game.Workspace:FindFirstChild("SeekMoving")
+game.Workspace:FindFirstChild("Ripper"):Destroy()
+end
+end)()
+--
+
+--Seek2
+coroutine.wrap(function()
+while true do
+wait(0.1)
+game.Workspace:FindFirstChild("SeekMoving")
+game.Workspace:FindFirstChild("Terr"):Destroy()
+end
+end)()
+--
+
+--Seek3
+coroutine.wrap(function()
+while true do
+wait(0.1)
+game.Workspace:FindFirstChild("SeekMoving")
+game.Workspace:FindFirstChild("Gripper"):Destroy()
+end
+end)()
+--
+
+--Seek4
+coroutine.wrap(function()
+while true do
+wait(0.1)
+game.Workspace:FindFirstChild("SeekMoving")
+game.Workspace:FindFirstChild("Dread"):Destroy()
+end
+end)()
+--
+
+--Seek5
+coroutine.wrap(function()
+while true do
+wait(0.1)
+game.Workspace:FindFirstChild("SeekMoving")
+game.Workspace:FindFirstChild("Depth"):Destroy()
+end
+end)()
+--
+
+--Seek6
+coroutine.wrap(function()
+while true do
+wait(0.1)
+game.Workspace:FindFirstChild("SeekMoving")
+game.Workspace:FindFirstChild("Cease"):Destroy()
+end
+end)()
+--
+
+--Seek7
+coroutine.wrap(function()
+while true do
+wait(0.1)
+game.Workspace:FindFirstChild("SeekMoving")
+game.Workspace:FindFirstChild("Nrebound"):Destroy()
+end
+end)()
+--
+
+--Seek8
+coroutine.wrap(function()
+while true do
+wait(0.1)
+game.Workspace:FindFirstChild("SeekMoving")
+game.Workspace:FindFirstChild("Smiler"):Destroy()
+end
+end)()
+--
+
+--Seek9
+coroutine.wrap(function()
+while true do
+wait(0.1)
+game.Workspace:FindFirstChild("SeekMoving")
+game.Workspace:FindFirstChild("Tikers"):Destroy()
+end
+end)()
+--
+
+--Seek10
+coroutine.wrap(function()
+while true do
+wait(0.1)
+game.Workspace:FindFirstChild("SeekMoving")
+game.Workspace:FindFirstChild("Hurtbypestrideer"):Destroy()
+end
+end)()
+--
+
+--Seek11
+coroutine.wrap(function()
+while true do
+wait(0.1)
+game.Workspace:FindFirstChild("SeekMoving")
+game.Workspace:FindFirstChild("Wh1t3"):Destroy()
+end
+end)()
+--
+
+--Seek12
+coroutine.wrap(function()
+while true do
+wait(0.1)
+game.Workspace:FindFirstChild("SeekMoving")
+game.Workspace:FindFirstChild("MultiMonster"):Destroy()
+end
+end)()
+--
+
+--Seek13
+coroutine.wrap(function()
+while true do
+wait(0.1)
+game.Workspace:FindFirstChild("SeekMoving")
+game.Workspace:FindFirstChild("B-60"):Destroy()
+end
+end)()
+--
