@@ -1,7 +1,7 @@
 --Figure1
 coroutine.wrap(function()
 while true do
-wait(0.1)
+wait(2)
 game.Workspace:FindFirstChild("FigureMoving")
 game.Workspace:FindFirstChild("Ripper"):Destroy()
 end
@@ -11,7 +11,7 @@ end)()
 -- Figure2
 coroutine.wrap(function()
 while true do
-wait(0.1)
+wait(2)
 game.Workspace:FindFirstChild("FigureMoving")
 game.Workspace:FindFirstChild("Terr"):Destroy()
 end
@@ -21,7 +21,7 @@ end)()
 --Figure3
 coroutine.wrap(function()
 while true do
-wait(0.1)
+wait(2)
 game.Workspace:FindFirstChild("FigureMoving")
 game.Workspace:FindFirstChild("Gripper"):Destroy()
 end
@@ -31,7 +31,7 @@ end)()
 -- Figure4
 coroutine.wrap(function()
 while true do
-wait(0.1)
+wait(3)
 game.Workspace:FindFirstChild("FigureMoving")
 game.Workspace:FindFirstChild("Dread"):Destroy()
 end
@@ -41,7 +41,7 @@ end)()
 --Figure5
 coroutine.wrap(function()
 while true do
-wait(0.1)
+wait(3)
 game.Workspace:FindFirstChild("FigureMoving")
 game.Workspace:FindFirstChild("Depth"):Destroy()
 end
@@ -51,7 +51,7 @@ end)()
 --Figure6
 coroutine.wrap(function()
 while true do
-wait(0.1)
+wait(3)
 game.Workspace:FindFirstChild("FigureMoving")
 game.Workspace:FindFirstChild("Cease"):Destroy()
 end
@@ -61,7 +61,7 @@ end)()
 --Figure7
 coroutine.wrap(function()
 while true do
-wait(0.1)
+wait(4)
 game.Workspace:FindFirstChild("FigureMoving")
 game.Workspace:FindFirstChild("Nrebound"):Destroy()
 end
@@ -71,7 +71,7 @@ end)()
 --Figure8
 coroutine.wrap(function()
 while true do
-wait(0.1)
+wait(4)
 game.Workspace:FindFirstChild("FigureMoving")
 game.Workspace:FindFirstChild("Smiler"):Destroy()
 end
@@ -81,7 +81,7 @@ end)()
 --Figure9
 coroutine.wrap(function()
 while true do
-wait(0.1)
+wait(4)
 game.Workspace:FindFirstChild("FigureMoving")
 game.Workspace:FindFirstChild("Tikers"):Destroy()
 end
@@ -91,7 +91,7 @@ end)()
 --Figure10
 coroutine.wrap(function()
 while true do
-wait(0.1)
+wait(5)
 game.Workspace:FindFirstChild("FigureMoving")
 game.Workspace:FindFirstChild("Hurtbypestrideer"):Destroy()
 end
@@ -101,7 +101,7 @@ end)()
 --Figure11
 coroutine.wrap(function()
 while true do
-wait(0.1)
+wait(5)
 game.Workspace:FindFirstChild("FigureMoving")
 game.Workspace:FindFirstChild("Wh1t3"):Destroy()
 end
@@ -111,7 +111,7 @@ end)()
 --Figure12
 coroutine.wrap(function()
 while true do
-wait(0.1)
+wait(5)
 game.Workspace:FindFirstChild("FigureMoving")
 game.Workspace:FindFirstChild("MultiMonster"):Destroy()
 end
@@ -121,7 +121,7 @@ end)()
 --Figure13
 coroutine.wrap(function()
 while true do
-wait(0.1)
+wait(5)
 game.Workspace:FindFirstChild("FigureMoving")
 game.Workspace:FindFirstChild("B-60"):Destroy()
 end
