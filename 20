@@ -1,0 +1,100 @@
+if game.ReplicatedStorage.GameData.LatestRoom.Value ~= 50 then 
+game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+else
+Wait(0.1)
+end
+if game.ReplicatedStorage.GameData.LatestRoom.Value ~= 50 then 
+game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+else
+Wait(0.1)
+end
+if game.ReplicatedStorage.GameData.LatestRoom.Value ~= 50 then 
+game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+else
+Wait(0.1)
+end
+if game.ReplicatedStorage.GameData.LatestRoom.Value ~= 50 then 
+game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+else
+Wait(0.1)
+end
+if game.ReplicatedStorage.GameData.LatestRoom.Value ~= 50 then 
+game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+else
+Wait(0.1)
+end
+if game.ReplicatedStorage.GameData.LatestRoom.Value ~= 50 then 
+game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+else
+Wait(0.1)
+end
+if game.ReplicatedStorage.GameData.LatestRoom.Value ~= 50 then 
+game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+else
+Wait(0.1)
+end
+if game.ReplicatedStorage.GameData.LatestRoom.Value ~= 50 then 
+game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+else
+Wait(0.1)
+end
+if game.ReplicatedStorage.GameData.LatestRoom.Value ~= 50 then 
+game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+else
+Wait(0.1)
+end
+if game.ReplicatedStorage.GameData.LatestRoom.Value ~= 50 then 
+game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+else
+Wait(0.1)
+end
+if game.ReplicatedStorage.GameData.LatestRoom.Value ~= 50 then 
+game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+else
+Wait(0.1)
+end
+if game.ReplicatedStorage.GameData.LatestRoom.Value ~= 50 then 
+game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+else
+Wait(0.1)
+end
+if game.ReplicatedStorage.GameData.LatestRoom.Value ~= 50 then 
+game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+else
+Wait(0.1)
+end
+if game.ReplicatedStorage.GameData.LatestRoom.Value ~= 50 then 
+game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+else
+Wait(0.1)
+end
+if game.ReplicatedStorage.GameData.LatestRoom.Value ~= 50 then 
+game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+else
+Wait(0.1)
+end
+if game.ReplicatedStorage.GameData.LatestRoom.Value ~= 50 then 
+game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+else
+Wait(0.1)
+end
+if game.ReplicatedStorage.GameData.LatestRoom.Value ~= 50 then 
+game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+else
+Wait(0.1)
+end
+if game.ReplicatedStorage.GameData.LatestRoom.Value ~= 50 then 
+game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+else
+Wait(0.1)
+end
+if game.ReplicatedStorage.GameData.LatestRoom.Value ~= 50 then 
+game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+else
+Wait(0.1)
+end
+if game.ReplicatedStorage.GameData.LatestRoom.Value ~= 50 then 
+game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+else
+Wait(0.1)
+end
