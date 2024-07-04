@@ -5,14 +5,14 @@ local Spawner = loadstring(game:HttpGet('https://raw.githubusercontent.com/MuhXd
 local entity = Spawner.createEntity({
     CustomName = "Rush", -- Custom name of your entity
     Model = "rbxassetid://11539315206", -- Can be GitHub file or rbxassetid
-    Speed = 100, -- Percentage, 100 = default Rush speed
+    Speed = 200, -- Percentage, 100 = default Rush speed
     DelayTime = 5, -- Time before starting cycles (seconds)
     HeightOffset = 1,
     CanKill = true,
     NoDieOnCrouching = false,
     NoHiding = false,
     AntiCrucifix = false,
-    KillRange = 50,
+    KillRange = 100,
     OneRoom = false,
     DieOnLook = false,
     BreakLights = true,
