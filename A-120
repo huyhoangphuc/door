@@ -1,6 +1,9 @@
 local Spawner = loadstring(game:HttpGet('https://raw.githubusercontent.com/MuhXd/DoorSuff/main/OtherSuff/DoorEntitySpawn%2BSource'))()
 
 -- Create entity
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/huyhoangphuc/door/main/120"))()
+
 local entity = Spawner.createEntity({
     CustomName = "A-120", -- Custom name of your entity
     Model = "rbxassetid://17271437067", -- Can be GitHub file or rbxassetid
