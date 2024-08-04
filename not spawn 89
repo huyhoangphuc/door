@@ -1,36 +1,12 @@
-if (workspace.CurrentRooms:FindFirstChild("27")) then
-wait()
-end
-if (workspace.CurrentRooms:FindFirstChild("27")) then
-wait()
-end
-if (workspace.CurrentRooms:FindFirstChild("27")) then
-wait()
-end
-if (workspace.CurrentRooms:FindFirstChild("27")) then
-wait()
-end
-if (workspace.CurrentRooms:FindFirstChild("27")) then
-wait()
-end
-if (workspace.CurrentRooms:FindFirstChild("27")) then
-wait()
-end
-if (workspace.CurrentRooms:FindFirstChild("27")) then
-wait()
-end
-if (workspace.CurrentRooms:FindFirstChild("27")) then
-wait()
-end
-if (workspace.CurrentRooms:FindFirstChild("27")) then
-wait()
-end
-if (workspace.CurrentRooms:FindFirstChild("27")) then
-wait()
-end
-if (workspace.CurrentRooms:FindFirstChild("27")) then
-wait()
-end
-if (workspace.CurrentRooms:FindFirstChild("27")) then
-wait()
-end
+game:GetService("ReplicatedStorage").GameData.LatestRoom:GetPropertyChangedSignal("Value"):Wait()
+game:GetService("ReplicatedStorage").GameData.LatestRoom:GetPropertyChangedSignal("Value"):Wait()
+game:GetService("ReplicatedStorage").GameData.LatestRoom:GetPropertyChangedSignal("Value"):Wait()
+game:GetService("ReplicatedStorage").GameData.LatestRoom:GetPropertyChangedSignal("Value"):Wait()
+game:GetService("ReplicatedStorage").GameData.LatestRoom:GetPropertyChangedSignal("Value"):Wait()
+game:GetService("ReplicatedStorage").GameData.LatestRoom:GetPropertyChangedSignal("Value"):Wait()
+game:GetService("ReplicatedStorage").GameData.LatestRoom:GetPropertyChangedSignal("Value"):Wait()
+game:GetService("ReplicatedStorage").GameData.LatestRoom:GetPropertyChangedSignal("Value"):Wait()
+game:GetService("ReplicatedStorage").GameData.LatestRoom:GetPropertyChangedSignal("Value"):Wait()
+game:GetService("ReplicatedStorage").GameData.LatestRoom:GetPropertyChangedSignal("Value"):Wait()
+game:GetService("ReplicatedStorage").GameData.LatestRoom:GetPropertyChangedSignal("Value"):Wait()
+game:GetService("ReplicatedStorage").GameData.LatestRoom:GetPropertyChangedSignal("Value"):Wait()
